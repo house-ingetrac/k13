@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>NASA</title>
+  </head>
+  <body>
+    <h1>This is a NASA API</h1>
+    <p>This is an image from the API</p>
+  </body>
+</html>
